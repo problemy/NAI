@@ -1,5 +1,5 @@
-#Mateusz Konarzewski s15197
-#https://www.codingame.com/ide/puzzle/temperatures
+# Mateusz Konarzewski s15197
+# https://www.codingame.com/ide/puzzle/temperatures
 # Wskazanie temperatury najbliższej zera spośród podanych, w przypadku takiej samej wartości ujemnej oraz dodatniej prawidłowa będzie dodatnia.
 import sys
 import math
