@@ -1,6 +1,6 @@
-# Mateusz Konarzewski s15197
+# Mateusz Konarzewski 
 # https://www.codingame.com/ide/puzzle/power-of-thor-episode-1
-# Wyznaczenie dla thora najkrótszej możliwej drogi by mógł sięgnąć światła mocy.
+
 
 
 import sys
