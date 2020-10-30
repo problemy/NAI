@@ -1,6 +1,6 @@
-# Mateusz Konarzewski s15197
+# Mateusz Konarzewski
 # https://www.codingame.com/ide/puzzle/the-descent
-# Niszczenie gór od najwyższej do najniższej zanim statek rozbije się o jedną z nich
+
 import sys
 import math
 
