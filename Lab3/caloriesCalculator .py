@@ -4,7 +4,7 @@
 #Readme:
 # numpy <= 1.19.3
 # scikitfuzzy
-
+#
 import numpy as np
 import skfuzzy as fuzz
 from skfuzzy import control as ctrl
