@@ -1,3 +1,5 @@
+# Bartosz Konarzewski & Mateusz Konarzewski
+
 import argparse
 import json
 import numpy as np
