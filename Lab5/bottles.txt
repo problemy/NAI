@@ -1,0 +1,34 @@
+NAZWA            ŒREDNICA[mm] WYSOKOŒÆ[mm]       WAGA[g]      WYSOKOŒÆ/ŒREDNICA    KOLOR        POJEMNOŒÆ[ml] Z=1. B=0
+Goœciszewo                67.5                258          262          3.822222222 brown                  500            0
+Paulaner                  67.5                238          276          3.525925926 brown                  500            0
+KuŸnickie                 68.3                240          262          3.513909224 brown                  500            0
+KoŸlak                    67.1                260          293          3.874813711 brown                  500            0
+Amber                     67.1                259          291          3.859910581 brown                  500            0
+Mi³os³aw_0                68.4                241          285          3.523391813 brown                  500            0
+Erdinger                  67.5                250          272          3.703703704 brown                  500            0
+PanIpani                  66                  250          267          3.787878788 brown                  500            0
+Dr.Brew                   66.7                260          289          3.898050975 brown                  500            0
+Krzepkie                  69.7                258          292          3.701578192 brown                  500            0
+Grodziskie_White            68                242          284          3.558823529 brown                  500            0
+Rowing_Jack               67.5                258          258          3.822222222 brown                  500            0
+Krombacher                  65                267          282          4.107692308 brown                  500            0
+Pinta                     66.9                250          261          3.736920777 brown                  500            0
+Specjal                   69.1                232          312          3.357452967 brown                  500            1
+¯ubr                      68.4                255          314          3.728070175 brown                  500            1
+Mi³os³aw_Pilzner          69.6                246          321          3.534482759 brown                  500            1
+¯ywiec_IPA                69.6                249          324          3.577586207 brown                  500            1
+¯ywiec_Porter             70.4                249          327          3.536931818 brown                  500            1
+Ksi¹¿êce_IPA              68.5                263          313          3.839416058 brown                  500            1
+Okocim_Jasne              69.3                249          311          3.593073593 brown                  500            1
+Dêbowe_mocne              68.5                255          334          3.722627737 brown                  500            1
+Okocim_Porter             68.6                249          313          3.629737609 brown                  500            1
+Kasztelan                   69                249          319          3.629737609 brown                  500            1
+Revolta_APA               66.9                250          261          3.623188405 brown                  500            0
+Revolta_Tropical          66.5                249          267          3.744360902 brown                  500            0
+Fortuna_Cz.                 70                245          324                  3.5 brown                  500            0
+Ksi¹¿êce                    68                262          322          3.852941176 brown                  500            0
+Mi³os³aw_NF               69.7                245          324          3.515064562 brown                  500            0
+Ksi¹¿êce_Cz.              67.5                263          323          3.896296296 brown                  500            0   
+
+
+                                                                                                                    
